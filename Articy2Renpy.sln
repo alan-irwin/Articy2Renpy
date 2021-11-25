@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Articy2Renpy", "Articy2Renpy.pyproj", "{0361AEC2-1DA8-486B-9390-867ED7CDCBEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0361AEC2-1DA8-486B-9390-867ED7CDCBEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0361AEC2-1DA8-486B-9390-867ED7CDCBEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9D6DE57-B4BB-4970-B550-24250C1C029E}
+	EndGlobalSection
+EndGlobal
